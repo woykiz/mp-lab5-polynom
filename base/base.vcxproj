@@ -81,12 +81,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="CPU.cpp" />
+    <ClCompile Include="polynom.cpp" />
     <ClCompile Include="sample.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="queue.h" />
-    <ClInclude Include="CPU.h" />
+    <ClInclude Include="polynom.h" />
+    <ClInclude Include="list.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

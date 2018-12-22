@@ -81,4 +81,6 @@ TEST(Polynom, can_calculate)
 
 	auto a = exp.Calculate(1, 2, 3);
 	EXPECT_EQ(-38519, a);
+
+	//
 }

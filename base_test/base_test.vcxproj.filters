@@ -18,10 +18,10 @@
     <ClCompile Include="test_main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="test_tstack.cpp">
+    <ClCompile Include="test_list.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="test_queue.cpp">
+    <ClCompile Include="test_polynom.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
